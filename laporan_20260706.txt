@@ -1,0 +1,28 @@
+=======================================================
+             LAPORAN ABSENSI HARIAN
+=======================================================
+Tanggal : 06-07-2026
+
+No  NIM         Nama                     Status
+-------------------------------------------------------
+1   552010125003Mahasiswa 3              Hadir
+2   552010125004Mahasiswa 4              Hadir
+3   552010125005Mahasiswa 5              Sakit
+4   552010125006Mahasiswa 6              Izin
+5   552010125007Mahasiswa 7              Izin
+6   552010125008Mahasiswa 8              Hadir
+
+=======================================================
+STATISTIK
+=======================================================
+Total Mahasiswa : 6
+Hadir           : 3
+Izin            : 2
+Sakit           : 1
+Alpha           : 0
+
+Persentase Kehadiran
+Hadir : 50.00%
+Izin  : 33.33%
+Sakit : 16.67%
+Alpha : 0.00%
